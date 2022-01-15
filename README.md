@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/github/followers/bos-hieu?label=Follow&style=social)](https://github.com/bos-hieu)
 
 - 🔭 I’m currently working on Autonomous Inc as Software Enginner
+- 🌱 I’m currently learning Golang
 
 <a href="https://github.com/bos-hieu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bos-hieu&show_icons=true&theme=merko&count_private=true" alt="Boshieu's github stats" />
