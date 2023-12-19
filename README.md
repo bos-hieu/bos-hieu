@@ -3,7 +3,8 @@
 [![Github](https://img.shields.io/github/followers/bos-hieu?label=Follow&style=social)](https://github.com/bos-hieu)
 
 - 🔭 I’m currently working on Autonomous Inc as Software Enginner
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Blockchain and Cloud computing
+- 😄 Pronouns: He/Him
 
 <a href="https://www.buymeacoffee.com/boshieu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
