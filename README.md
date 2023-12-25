@@ -8,6 +8,21 @@
 
 <a href="https://www.buymeacoffee.com/boshieu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+<h2> Skills </h2>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
+&#160;
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=objectivec&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/objectivec.svg'> </a>
+
 <!--
 <a href="https://github.com/bos-hieu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bos-hieu&show_icons=true&theme=merko&count_private=true" alt="Boshieu's github stats" />
