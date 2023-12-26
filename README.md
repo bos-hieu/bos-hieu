@@ -13,15 +13,15 @@
 &#160;
 <a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 &#160;
-<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=mongodbs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 &#160;
-<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 &#160;
-<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 &#160;
-<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 &#160;
-<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=objectivec&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/objectivec.svg'> </a>
+<a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 
 <!--
 <a href="https://github.com/bos-hieu">
