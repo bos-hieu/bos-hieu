@@ -1,12 +1,14 @@
-### Hey 👋, I'm Hieu Le Trung
+### Hey 👋, I'm Trung Hieu Le
 
 [![Github](https://img.shields.io/github/followers/bos-hieu?label=Follow&style=social)](https://github.com/bos-hieu)
 
 - 🔭 I’m currently working on Autonomous Inc as Software Enginner
-- 🌱 I’m currently learning Blockchain and Cloud computing
+- 🌱 I'm currently expanding my expertise by delving into Blockchain and Cloud Computing
 - 😄 Pronouns: He/Him
 
+<!--
 <a href="https://www.buymeacoffee.com/boshieu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+-->
 
 <h2> Skills </h2>
 <a href= https://github.com/bos-hieu?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
