@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/bos-hieu?label=Follow&style=social)](https://github.com/bos-hieu)
 
-- 🔭 I’m currently working on Autonomous Inc as Software Enginner
 - 🌱 I'm currently expanding my expertise by delving into Blockchain and Cloud Computing
 - 😄 Pronouns: He/Him
 
