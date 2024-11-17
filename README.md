@@ -1,5 +1,6 @@
 ### Hey 👋, I'm Trung Hieu Le
 
+![Profile Views](https://komarev.com/ghpvc/?username=bos-hieu&color=blue)
 [![Github](https://img.shields.io/github/followers/bos-hieu?label=Follow&style=social)](https://github.com/bos-hieu)
 
 - 🌱 I'm currently expanding my expertise by delving into Blockchain and Cloud Computing
